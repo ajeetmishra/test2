@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is 124F-A16E
+
+ Directory of C:\Users\ajeet\Downloads\git_demo\test2
+
+05-06-2024  12:21    <DIR>          .
+05-06-2024  12:20    <DIR>          ..
+05-06-2024  12:20                 7 README.md
+05-06-2024  12:21                 0 src_dir.txt
+               2 File(s)              7 bytes
+               2 Dir(s)     828,522,496 bytes free
